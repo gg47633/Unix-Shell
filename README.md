@@ -17,7 +17,7 @@ This project is a simple recreation of the Unix shell with features such as runn
     git clone https://github.com/gg47633/Unix-Shell.git
 3. If needed, change directory into the repository to access the code:
 ##
-    cd Unix_Shell
+    cd Unix-Shell
 
 ## Usage
 
